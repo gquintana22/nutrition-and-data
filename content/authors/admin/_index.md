@@ -72,6 +72,10 @@ email: ''
 highlight_name: true
 ---
 
-Aqui de lo que voy a hablar
+Welcome ! I'm Gustavo Quintana, DVM and poultry nutritionist. During my masters in poultry science at NC State University I focused my research in data analytics for poultry production. However, when looking for info related to data analytics in poultry science, I realized there are not many examples, databases or videos that teach people how to use ML techniques in poultry science. Then, I had to take classes in environment, watch videos and webinars in analytics for banking, bioinformatics, manufacturing  and other sectors to understand a little bit about big data.
+
+Thus, I created this website to help motivated people in learning how to create, modify, calculate and play around with databses while developing skills in data analytics, usage of R and Tableau.
+
+On the other and, you will find short articles to understand physiology and nutrition in poultry science. Let's make this website, the largest community that combines poultry science and data analytics. If you want to contribute, please send a message with the info you want to share.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
