@@ -77,7 +77,7 @@ Welcome ! I'm Gustavo Quintana, DVM and poultry nutritionist. During my masters 
 
 Thus, I created this website to help motivated people in learning how to create, modify, calculate and play around with databses while developing skills in data analytics, usage of R and Tableau.
 
-On the other and, you will find short articles to understand physiology and nutrition in poultry science. Let's make this website, the largest community that combines poultry science and data analytics. If you want to contribute, please send a message with the info you want to share.
+On the other and, you will find short articles to understand common topics in physiology and nutrition in poultry science. Let's make this website, the largest community that combines poultry science and data analytics. If you want to contribute, please send a message with the info you want to share.
 
 If you think you can contribute in other species and languages, just let me know, I will be glad to expand this place !!
 

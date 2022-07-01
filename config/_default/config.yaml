@@ -5,6 +5,7 @@
 
 title: Gustavo Quintana # Website name
 baseURL: 'https://example.com/' # Website URL
+copyright: '© {year} All rights reserved Gustavo Quintana-Ospina'
 
 ############################
 ## LANGUAGE
